@@ -9,8 +9,9 @@ Start the small Batch file BA.BAT. The compiler compiles itself and calls the Ne
 ##Functions
 ##History
 AS of 1.1.2015 I set the software as free software under the MIT license.
-##Email
-You can contact me: help@pla.de
+##Home
+Website: https://github.com/drguenther/A
+Email: help@pla.de
 #TODO
 1. write the documentation (my part)
 2. mailing list
