@@ -8,8 +8,8 @@ Assembly language with C style syntax for X86 processors with the freedom of ass
 Start the small Batch file BA.BAT. The compiler compiles itself and calls the Netwide Assembler(NASM).
 ##Functions
 ##History
-- AS of 1.1.2015 I set the software as free software under the MIT license.
--You find a very old version from 2009 here: http://sourceforge.net/projects/pla/
+As of 1.1.2015 I set the software as free software under the MIT license.
+You find a very old version from 2009 here: http://sourceforge.net/projects/pla/
 It includes with source compiler, command interpreter an the game Towers of Hanoi.
 ##Home
 Website: https://github.com/drguenther/A
@@ -21,4 +21,4 @@ Email: help@pla.de
 
 ##Later
 1. remove the old Borland TASM code
-2. I used no Version control system before and printed out the code. So I wrote the code very dense. With the code folding features there is no need any more. Beautifying the code.
+2. I used no Version control system and printed out the code. So I wrote the code very dense. With the code folding features of the editors there is no need any more. Beautifying the code.
