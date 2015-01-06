@@ -15,5 +15,8 @@ Email: help@pla.de
 #TODO
 1. write the documentation (my part)
 2. mailing list
-3. bug tracker
-4. 
+3. issues, bug tracker
+##Later
+1. remove the old Borland TASM code
+2. I used no Version control system before and printed out the code. So I wrote the code very dense. With the code folding features there is no need any more. beautifying the code.
+3. 
