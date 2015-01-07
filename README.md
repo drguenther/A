@@ -2,6 +2,9 @@ A
 =
 
 Programming Language A
+will be ported to https://github.com/alanguage/A
+soon
+
 ##Goal
 Assembly language with C style syntax for X86 processors with the freedom of assembly and the dense notation of the C language.
 ##How to run
