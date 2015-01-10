@@ -5,13 +5,13 @@ Programming Language A
 
 ###Goal
 Assembly language with C style syntax for X86 processors with the freedom of assembly and the dense notation of the C language.
+###License
+The MIT License (MIT) starting 1.1.2015
 ###How to run
-Start the small Batch file BA.BAT. The compiler compiles itself and calls the Netwide Assembler(NASM).
-###Functions
-####Design
-####Variables
-####Functions
+Start the small Batch file BA.BAT. The compiler compiles itself and calls the Netwide Assembler(NASM). see files.md
+
 ###History
+I started the project in DOS- times to learn how a compiler works.
 As of 1.1.2015 I set the software as free software under the MIT license.
 You find a very old version from 2009 here: http://sourceforge.net/projects/pla/
 It includes with source compiler, command interpreter and the game [Towers of Hanoi](http://en.wikipedia.org/wiki/Tower_of_Hanoi).
