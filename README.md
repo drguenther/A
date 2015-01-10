@@ -2,7 +2,6 @@ A
 =
 
 Programming Language A
-will be ported to https://github.com/alanguage/A
 
 ###Goal
 Assembly language with C style syntax for X86 processors with the freedom of assembly and the dense notation of the C language.
@@ -20,12 +19,12 @@ It includes with source compiler, command interpreter and the game [Towers of Ha
 Website: https://github.com/drguenther/A
 Email: help@pla.de
 ##TODO
-1. write the documentation (my part)
-2. mailing list
-3. issues, bug tracker
+* porting to https://github.com/alanguage/A, if I know how to do
+* I will write the documentation
+* installing a mailing list, issues tracker, I need help
 
 ###Later
-1. remove the old Borland TASM code
-2. I used no Version control system and printed out the code. 
+* I used no Version control system and printed out the code. 
 So I wrote the code very dense. With the code folding features of the editors 
 there is no need any more. Beautifying the code.
+* remove the old Borland TASM code
