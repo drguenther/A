@@ -20,11 +20,12 @@ Website: https://github.com/drguenther/A
 
 Email: help@pla.de
 
-It is my first free software and I am new to Github. Contrubutors are heartily wellcome! Write me an Email until I find a better solution. 
+It is my first free software and I am new to Github. Contrubutors are heartily wellcome! 
+I am looking for comments, suggestions and of  course bugs. I start the documentation, which I have never done before and will explain the functions. If it holds interests to you, please come back or write me an Email until I find a better solution. 
 ####TODO
 * porting to https://github.com/alanguage/A, if I know how to do
 * I will write the documentation
-* installing a mailing list, issues tracker, I need help
+* installing a mailing list, issues tracker
 
 ####Later
 * I used no Version control system and printed out the code. 
