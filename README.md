@@ -4,7 +4,7 @@ A
 Programming Language A
 
 ####Goal
-Assembly language with C style syntax for X86 processors with the freedom of assembly and the dense notation of the C language.
+Assembly language with C style syntax for X86 processors with the freedom of assembly and the notation of the C language.
 ####License
 The MIT License (MIT) starting 1.1.2015
 ####How to run
@@ -17,7 +17,9 @@ You find a very old version from 2009 here: http://sourceforge.net/projects/pla/
 It includes with source compiler, command interpreter and the game [Towers of Hanoi](http://en.wikipedia.org/wiki/Tower_of_Hanoi).
 ####Home
 Website: https://github.com/drguenther/A
+
 Email: help@pla.de
+
 It is my first free software and I am new to Github. Contrubutors are heartily wellcome! Write me an Email until I find a better solution. 
 ####TODO
 * porting to https://github.com/alanguage/A, if I know how to do
